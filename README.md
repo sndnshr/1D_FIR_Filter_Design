@@ -34,3 +34,7 @@ Supporting function for L_inf_sparse. Outputs a frequency grid of passband and s
 - fa_para: Normalized stopband frequency fa for types 1 and 2, [fa1 fa2] for types 3 and 4.
 - mu: regularization parameter.
 - delta: threshold for hardthresholding.
+
+## Dependencies
+
+- [CVX](http://cvxr.com/cvx/)
